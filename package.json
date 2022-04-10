@@ -1,7 +1,6 @@
 {
   "name": "dapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "python3": "^0.0.1"
-  }
+    "python3": "^0.0.1",
+    "webpack": "^5.72.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "keywords": [],
+  "description": ""
 }
